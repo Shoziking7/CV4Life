@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135422187350",
+    "project_id": "cv4life-7d3f5",
+    "storage_bucket": "cv4life-7d3f5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135422187350:android:22e0fbe8b7cd2f352268f7",
+        "android_client_info": {
+          "package_name": "com.CV4life.CV4life"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrrvstmUn8NCouvJs8baEV9IqkQKnG9sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135422187350:android:81fbfb63a6caa6a72268f7",
+        "android_client_info": {
+          "package_name": "com.example.newgemini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrrvstmUn8NCouvJs8baEV9IqkQKnG9sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
