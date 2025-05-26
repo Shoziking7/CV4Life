@@ -24,7 +24,7 @@ public class StudentDashboardActivity extends AppCompatActivity {
         // Find views by ID
         CardView viewJobsCard = findViewById(R.id.viewJobsCard);
         CardView myApplicationsCard = findViewById(R.id.myApplicationsCard);
-        CardView editCVCard = findViewById(R.id.editCVCards);
+        CardView editCVCard = findViewById(R.id.editCVCard);
         CardView profileCard = findViewById(R.id.profileCard);
         CardView chatbotCard = findViewById(R.id.chatbotCard);
         CardView settingsCard = findViewById(R.id.settingsCard);
